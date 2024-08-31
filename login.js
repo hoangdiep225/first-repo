@@ -1,6 +1,3 @@
-function login (){
-  return 1
-}
-function logout (){
-  return 0 
+function login (a, b){
+  return a + b;
 }
