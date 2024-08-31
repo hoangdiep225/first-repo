@@ -1,5 +1,5 @@
-const test = 'ZZZZZZZZZ'
+const test = 'MMMMMMMMMMM'
 
 function total (a, b, c){
-  return;
+  return a + b + c;
 }
