@@ -1,5 +1,5 @@
-const test = ''
+const test = 'XXXXX'
 
-function total (){
+function total (a, b, c){
   return;
 }
