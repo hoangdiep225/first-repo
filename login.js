@@ -1,6 +1,14 @@
 function login (){
-  return 1
+  console.log('Login !')
+  // TODO: ....
 }
 function logout (){
-  return 0 
+  console.log('logout !')
+  // TODO: ....
+  return 0
+}
+
+function register(){
+  console.log('Register !')
+  // TODO: ....
 }
