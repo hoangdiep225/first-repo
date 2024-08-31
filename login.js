@@ -7,10 +7,10 @@ function login (a, b){
 function logout (){
   console.log('logout !')
   // TODO: ....
-  return 0
 }
 
-function register(){
+function register(a, b){
   console.log('Register !')
   // TODO: ....
+  return a + b;
 }
